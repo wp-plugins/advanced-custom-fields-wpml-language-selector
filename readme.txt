@@ -31,3 +31,5 @@ This ACF field type is compatible with:
 
 = 1.1.0 =
 * Initial Release.
+= 1.1.1 =
+* Change plugin URI in header comment
