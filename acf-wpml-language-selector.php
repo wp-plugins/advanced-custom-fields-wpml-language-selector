@@ -2,9 +2,9 @@
 
 /*
 Plugin Name: Advanced Custom Fields: WPML Language Selector
-Plugin URI: PLUGIN_URL
+Plugin URI: https://wordpress.org/plugins/advanced-custom-fields-wpml-language-selector/
 Description: Input field with list of available WPML languages used on website
-Version: 1.1.0
+Version: 1.1.1
 Author: Ivan Paulin
 Author URI: http://ivanpaulin.com
 License: GPLv2 or later
