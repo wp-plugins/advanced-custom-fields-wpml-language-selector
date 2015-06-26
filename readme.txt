@@ -1,5 +1,5 @@
 === Advanced Custom Fields: WPML Language Selector Field ===
-Contributors: Ivan Paulin
+Contributors: ivan_paulin
 Tags: acf, custom field, wpml, language, language select
 Requires at least: 4.0
 Tested up to: 4.2.2
